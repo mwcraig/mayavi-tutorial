@@ -8,6 +8,6 @@ dependencies:
   - apptools
   - envisage
   - jupyter
-  - vtk
   - pip:
+    - vtk
     - mayavi
