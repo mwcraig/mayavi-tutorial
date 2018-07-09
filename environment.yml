@@ -1,0 +1,13 @@
+name: mayavi
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - numpy
+  - scipy
+  - apptools
+  - envisage
+  - jupyter
+  - pip:
+    - vtk
+    - mayavi
